@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Ashbridge Institute</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="hero">
+        <h1>Empowering Organizations with Resilient Crisis Strategies</h1>
+        <button class="cta-button">Learn More</button>
+        <button class="cta-button">Contact Us</button>
+        <button class="cta-button">Join Our Membership</button>
+    </header>
+    <section class="intro">
+        <h2>About Ashley</h2>
+        <p>Ashley has advised top CEOs, led PR for major tech firms, and developed crisis strategies that empower organizations.</p>
+    </section>
+    <section class="services">
+        <div class="service-card">
+            <h3>Training Workshops</h3>
+            <p>Interactive, small-group training for teams and leaders.</p>
+            <button class="learn-more">Learn More</button>
+        </div>
+        <div class="service-card">
+            <h3>Crisis Playbook Development</h3>
+            <p>Custom crisis playbooks tailored to your organization’s needs.</p>
+            <button class="learn-more">Learn More</button>
+        </div>
+        <div class="service-card">
+            <h3>Consulting & Advisory</h3>
+            <p>One-on-one consulting for strategic crisis management.</p>
+            <button class="learn-more">Learn More</button>
+        </div>
+    </section>
+    <section class="testimonials">
+        <h2>What Clients Say</h2>
+        <div class="testimonial-carousel">
+            <p>“Ashley’s guidance was instrumental in navigating a major crisis with confidence.” – CEO of Major Tech Firm</p>
+            <!-- Add more testimonials -->
+        </div>
+    </section>
+</body>
+</html>
